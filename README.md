@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sadra Daneshvari.
-- 👀 I’m interested in Bioinformatics, Mathematical Biology, Biophysics, and Computational Neuroscience.
+- 👀 I’m interested in Theoretical Biology – Physical Biochemistry - Statistical Physics – Mathematical Neuroscience
 - 🌱 I’m currently Studying Dual Major B.Sc. in **Computer Science** and **Cell & Molecular Biology** at University of Tehran.
-- 🚀 I’m looking to collaborate on _Building Artificial Brains_ and _Memory Transfer_. 
 - 📫 reach me on daneshvari.sadra@gmail.com or https://www.linkedin.com/in/sadra-daneshvari-9755721b3/.
 
 <!---
