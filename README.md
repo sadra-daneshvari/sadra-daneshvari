@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sadra Daneshvari.
-- 👀 I’m interested in Theoretical Biology – Social Physics - Mathematical Neuroscience - Complex Dynamic Systems Theory
+- 👀 I’m interested in Theoretical Biology – Social Physics - Information Theory - Complex Dynamic Systems Theory
 - 🌱 I’m currently Studying Dual Major B.Sc. in **Computer Science** and **Cell & Molecular Biology** at University of Tehran.
 - 📫 reach me on daneshvari.sadra@gmail.com or https://www.linkedin.com/in/sadra-daneshvari-9755721b3/.
 
